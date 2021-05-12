@@ -5,7 +5,7 @@ This module introduces students to data analysis. It provides an introduction to
 
 ### What technology will we use to do this? 
 
-The software we'll be using is R and RStudio. You will need to download and install both on your computer before the live sessions. You can download R [here] (https://cran.r-project.org/) and you can download RStudio [here](https://www.rstudio.com). Both are free of charge. Simply download the version matching your operating system (Windows or Mac) and you're ready to go. R and RStudio are open-source programmes for analysing data and is one of the leading programming languages. You don't need to be a computer programmer; you will learn to write code over the course of the module and gain practice refining and executing it.
+The software we'll be using is R and RStudio. You will need to download and install both on your computer before the live sessions. You can download R [here](https://cran.r-project.org/) and you can download RStudio [here](https://www.rstudio.com). Both are free of charge. Simply download the version matching your operating system (Windows or Mac) and you're ready to go. R and RStudio are open-source programmes for analysing data and is one of the leading programming languages. You don't need to be a computer programmer; you will learn to write code over the course of the module and gain practice refining and executing it.
 
 
 ### How will we do this? 
