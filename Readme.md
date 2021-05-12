@@ -5,12 +5,12 @@ This module introduces students to data analysis. It provides an introduction to
 
 ### What technology will we use to do this? 
 
-The software we'll be using is R and RStudio. You will need to download and install both on your computer before the live sessions. You can download R [here] and you can download RStudio [here](https://www.rstudio.com). Both are free of charge. Simply download the version matching your operating system (Windows or Mac) and you're ready to go. R and RStudio are open-source programmes for analysing data and is one of the leading programming languages. You don't need to be a computer programmer; you will learn to write code over the course of the module and gain practice refining and executing it.
+The software we'll be using is R and RStudio. You will need to download and install both on your computer before the live sessions. You can download R [here] (https://cran.r-project.org/) and you can download RStudio [here](https://www.rstudio.com). Both are free of charge. Simply download the version matching your operating system (Windows or Mac) and you're ready to go. R and RStudio are open-source programmes for analysing data and is one of the leading programming languages. You don't need to be a computer programmer; you will learn to write code over the course of the module and gain practice refining and executing it.
 
 
 ### How will we do this? 
 
-I will run seven interactive sessions which mimic the flow of how political scientists conduct research on political participation. Each session will take a separate form of participation. We will analyse how many people participate in that form, compare the levels across different countries and political systems and then probe into the factors that influence it.  
+I have created a series of lessons on Moodle, which guide you through how to use R. I will also run seven interactive sessions where we complete exercises together. You will have the oppotunity to ask questions, learn more deeply and pick up tips for the assessments.
 
 ### What data will we use?
 
