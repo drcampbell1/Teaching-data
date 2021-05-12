@@ -27,15 +27,15 @@ I hope this module find that you want to build your skills, there are lots of re
 
 - Presentations on YouTube
 
-  - How to install R and RStudio (https://www.youtube.com/watch?v=9-RrkJQQYqY)
+  - [How to install R and RStudio] (https://www.youtube.com/watch?v=9-RrkJQQYqY)
   
-  - An introduction to R: (https://www.youtube.com/watch?v=lL0s1coNtRk)
+  - [An introduction to R]: (https://www.youtube.com/watch?v=lL0s1coNtRk)
   
-  - An introduction to R and the Tidyverse (https://www.youtube.com/watch?v=JtQfXY0lIzc)
+  - [An introduction to R and the Tidyverse] (https://www.youtube.com/watch?v=JtQfXY0lIzc)
+  - 
 - Books
-  - Hadley Wickham and Garrett Grolemund (2017) *R for Data Science* O'Reilly. (https://r4ds.had.co.nz)
+  - [Hadley Wickham and Garrett Grolemund (2017) *R for Data Science* O'Reilly] (https://r4ds.had.co.nz)
 
-  - See also: free books via RStudio (https://rstudio.com/resources/books/).
 
 - Blogs explaining the *Tidyverse* 
 
@@ -43,9 +43,6 @@ I hope this module find that you want to build your skills, there are lots of re
 
   - (https://dplyr.tidyverse.org/articles/dplyr.html)
 
-
-### Can I run the analyses on my own?
-Yes - practice makes perfect! These materials have been produced to develop your knowledge and you should feel free to enter the data environment when you want. This will help you understand more about participation than simply reading someone's evidence - and this is an important part of being a social scientist. For as interesting as books and articles are, you need to examine the evidence on your own at some point. And the skills and techniques you'll acquire in doing so will benefit you in the long-term.
 
 
 This 
