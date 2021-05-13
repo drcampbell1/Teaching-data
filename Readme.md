@@ -1,13 +1,11 @@
 
-<img src="https://bookdown.org/yihui/rmarkdown/images/hex-rmarkdown.png" alt="The rmarkddown hex sticker" align="right" width="200" style="padding: 0 15px; float: right;"/>
-
 ### **Data Analysis for Social Science**<br/> **Ross Campbell, PhD** ###
 
 This module introduces students to data analysis. It provides an introduction to the programming language R, using a powerful set of tools known as the Tidyverse. You'll learn to bring data into RStudio using the readr package and examine its properties and structure. You'll also learn how to filter, sort and summarise real datasets to answer exploratory questions using the dplyr package. Second, you'll turn this processed data into informative bar plots, histograms and line plots, and customise them with the ggplot2 package. You’ll get a taste of the value of exploratory data analysis and the power of Tidyverse tools.
 
 ### What technology will we use to do this? 
 
-The software we'll be using is R and RStudio. You will need to download and install both on your computer before the live sessions. You can download R [here](https://cran.r-project.org/) and you can download RStudio [here](https://www.rstudio.com). Both are free of charge. Simply download the version matching your operating system (Windows or Mac), install both and you're ready to go. 
+The software we'll be using is R and RStudio. You will need to download and install both on your computer before the live sessions. You can download R [here](https://cran.r-project.org/) and you can download RStudio [here](https://www.rstudio.com). Both are free of charge. Simply download the version matching your operating system (Windows or Mac), install them and you're ready to go. 
 
 R and RStudio are open-source programmes for analysing data and R is one of the leading programming languages. But you don't need to be a computer programmer to use it effectively. You'll learn to write code over the course of the module and gain practice refining and executing it.
 
