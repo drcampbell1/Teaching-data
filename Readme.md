@@ -1,8 +1,6 @@
 
 
-## tidyverse <a href='https://tidyverse.tidyverse.org'><img src='man/figures/logo.png' align="right" height="138.5" /></a>
-
-<img src='man/figures/logo.png' align="right" height="139" />
+## tidyverse <img alt="Logo for tidyverse" src="thumbs/tidyverse.png" width="120" height="139"><br /><a href="PNG/tidyverse.png">tidyverse.png</a><br /><a href="SVG/tidyverse.svg">tidyverse.svg</a>
 
 ## **Data Analysis for Social Science**<br/> **Ross Campbell, PhD** ##
 
