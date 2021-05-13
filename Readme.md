@@ -17,11 +17,6 @@ I have created a series of lessons on Moodle, which guide you through how to use
 
 This course uses two datasets. The first is an abbreviated verison of the European Social Survey. The survey is too big to use in full, so I've reduced the number of countries and variables to make it more accessible. As you'll see when we look at the questions it asks, it is a really good data source for those interested in social science subjects. You can find out more about the European Social Survey [here](https://www.europeansocialsurvey.org/).
 
-### Why are we using data?
-
-This is not a course on statistics and students do not need to have mathematical skills to complete the lab exercises. But surveys frequently include data on forms of political participation, and this can provide helpful, but qualified, answers to the questions guiding this module. Most commonly, these surveys come in cross-national form; i.e., they are collected in multiple countries simultaneously. This enables us to examine and compare levels of participation in regions within countries, and/or across countries. In doing this, the data contradict your assumptions. The lesson here is to be cautious about approaching this module with assumptions. Not everything that you think is happening is *actually* happening. Let the data guide you, but be critical of it too. 
-
-
 ### Where can I get help with R/RStudio?
 
 
