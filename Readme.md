@@ -5,15 +5,17 @@ This module introduces students to data analysis. It provides an introduction to
 
 ### What technology will we use to do this? 
 
-The software we'll be using is R and RStudio. You will need to download and install both on your computer before the live sessions. You can download R [here](https://cran.r-project.org/) and you can download RStudio [here](https://www.rstudio.com). Both are free of charge. Simply download the version matching your operating system (Windows or Mac) and you're ready to go. R and RStudio are open-source programmes for analysing data and R is one of the leading programming languages. But you don't need to be a computer programmer to use it effectively. You'll learn to write code over the course of the module and gain practice refining and executing it.
+The software we'll be using is R and RStudio. You will need to download and install both on your computer before the live sessions. You can download R [here](https://cran.r-project.org/) and you can download RStudio [here](https://www.rstudio.com). Both are free of charge. Simply download the version matching your operating system (Windows or Mac) and you're ready to go. 
+
+R and RStudio are open-source programmes for analysing data and R is one of the leading programming languages. But you don't need to be a computer programmer to use it effectively. You'll learn to write code over the course of the module and gain practice refining and executing it.
 
 ### How will we do this? 
 
-I have created a series of lessons on Moodle, which guide you through how to use R. These are short and designed to give you the key information in an accessible format. Once you've viewed the lesson, there will be interactive sessions where we complete exercises together. You will have the oppotunity to ask questions, learn more deeply and pick up tips for the assessments.
+I have created a series of lessons on Moodle, which guide you through how to use R. These are short and designed to give you the key information in an accessible format. Once you've viewed the lesson, there will be interactive sessions where we complete exercises together. You will have the oppotunity to ask questions, learn more deeply and pick up tips for the assessments. You'll also have exercises to complete on your own.
 
 ### What data will we use?
 
-This course uses atwo datasets. The first is an abbreviated verison of the European Social Survey. The survey is too big to use in full, so I've reduced the number of countries and variables to make it more accessible. As you'll see when we look at the questions it asks, it is a really good data source for those interested in social science subjects. You can find out more about the European Social Survey [here](https://www.europeansocialsurvey.org/).
+This course uses two datasets. The first is an abbreviated verison of the European Social Survey. The survey is too big to use in full, so I've reduced the number of countries and variables to make it more accessible. As you'll see when we look at the questions it asks, it is a really good data source for those interested in social science subjects. You can find out more about the European Social Survey [here](https://www.europeansocialsurvey.org/).
 
 ### Why are we using data?
 
