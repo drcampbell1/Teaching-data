@@ -1,8 +1,6 @@
 
 
-## tidyverse <img alt="Logo for tidyverse" src="thumbs/tidyverse.png" width="120" height="139"><br /><a href="PNG/tidyverse.png">tidyverse.png</a><br /><a href="SVG/tidyverse.svg">tidyverse.svg</a>
-
-## **Data Analysis for Social Science**<br/> **Ross Campbell, PhD** ##
+### **Data Analysis for Social Science**<br/> **Ross Campbell, PhD** ##
 
 This module introduces students to data analysis. It provides an introduction to the programming language R, using a powerful set of tools known as the Tidyverse. You'll learn to bring data into RStudio using the readr package and examine its properties and structure. You'll also learn how to filter, sort and summarise real datasets to answer exploratory questions using the dplyr package. Second, you'll turn this processed data into informative bar plots, histograms and line plots, and customise them with the ggplot2 package. You’ll get a taste of the value of exploratory data analysis and the power of Tidyverse tools.
 
