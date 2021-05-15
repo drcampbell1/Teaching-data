@@ -18,7 +18,7 @@ I have created a series of lessons on Moodle, which guide you through how to use
 
 ### What data will we use?
 
-This course uses two datasets. The first is an abbreviated verison of the [European Social Survey](https://www.europeansocialsurvey.org/). The survey is too big to use in full, so I've reduced the number of countries and variables to make it more accessible. It is a really good data source for those interested in social science subjects. The second is the [World Values Survey](https://www.worldvaluessurvey.org/wvs.jsp). It has been around since the 1980s, meaning that it is ideal for tracking change over time. Again, it is too big to use in full, so I've reduced the number of countries involved. I've provided a separate web page where you can find more details on the variables in the surveys. Please look at this carefully *before* you begin the interactive lab sessions.
+This course uses two datasets. The first is an abbreviated verison of the [European Social Survey](https://www.europeansocialsurvey.org/). The survey is too big to use in full, so I've reduced the number of countries and variables to make it more accessible. It is a really good data source for those interested in social science subjects. The second is the [World Values Survey](https://www.worldvaluessurvey.org/wvs.jsp). It has been around since the 1981, meaning that it is ideal for tracking change over time. Again, it is too big to use in full, so I've reduced the number of countries involved. I've provided a separate web page where you can find more details on the variables in the surveys. Please look at this carefully *before* you begin the interactive lab sessions.
 
 ### Where can I get help with R/RStudio?
 
