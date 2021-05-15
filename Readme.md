@@ -1,5 +1,5 @@
 
-![tidyverse](https://user-images.githubusercontent.com/36095902/118362185-5a4a5c80-b586-11eb-88c2-a09cef5b90ad.png) alt="The rmarkddown hex sticker" align="right" width="200" style="padding: 0 15px; float: right;"/>
+![tidyverse](https://user-images.githubusercontent.com/36095902/118362185-5a4a5c80-b586-11eb-88c2-a09cef5b90ad.png)
 
 
 ### **Data Analysis for Social Science**<br/> **Ross Campbell, PhD** ###
