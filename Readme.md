@@ -1,6 +1,7 @@
 <p align="right">
  <img src=![tidyverse](https://user-images.githubusercontent.com/36095902/118362638-2f610800-b588-11eb-9a21-7ddceede301f.png)/>                                       
-</p>                                           
+</p>                    
+                        
 ### **Data Analysis for Social Science**<br/> **Ross Campbell, PhD** ###
 
 In this module, you'll learn how to analyse data and extract meaningful insights from it. The module will introduce you to the R programming language through a powerful set of tools known as the Tidyverse. You'll begin by using the *readr* package to bring data into RStudio and examine its properties and structure. You'll then use the *dplyr* package to count, sort and arrange your data - and you'll build on this by using the group by and filter verbs to probe for deeper insights. You'll create informative bar plots, histograms and line plots with the *ggplot2* package, optimising the aesthetics and geoms to help you build insightful and accurate visualisations. From here, you’ll develop your *ggplot2* skills and learn how to use facets to customise them further. Most importantly, though, as you progress in the module, you'll see how these tools may be used together.
