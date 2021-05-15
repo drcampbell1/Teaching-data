@@ -1,6 +1,4 @@
 
-![tidyverse](https://user-images.githubusercontent.com/36095902/118362185-5a4a5c80-b586-11eb-88c2-a09cef5b90ad.png)
-
 
 ### **Data Analysis for Social Science**<br/> **Ross Campbell, PhD** ###
 
