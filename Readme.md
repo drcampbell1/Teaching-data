@@ -23,7 +23,7 @@ This course uses two datasets. The first is an abbreviated verison of the [Europ
 ### Where can I get help with R/RStudio?
 
 
-If you want to build your skills, there are lots of resources for using R and RStudio. All of the following are free of charge:
+If you want to build your skills, there are lots of resources for using R and RStudio. All of the following are free of charge. If I was to recommend a book to purchase it would be the one below by Hadley Wickham and Garrett Grolemund, *R for Data Science*. This is a classic text and if you want a hard-copy of a book to read, you'll find it helpful. I'll be referring to it throughout the module.
 
 - Presentations on YouTube
 
