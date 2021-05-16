@@ -23,7 +23,7 @@ This course uses two datasets. The first is an abbreviated verison of the [Europ
 ### Where can I get help with R/RStudio?
 
 
-I hope this module find that you want to build your skills, there are lots of resources for using R and RStudio. All of the following are free of charge:
+If you want to build your skills, there are lots of resources for using R and RStudio. All of the following are free of charge:
 
 - Presentations on YouTube
 
